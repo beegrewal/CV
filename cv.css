@@ -1,0 +1,35 @@
+* {
+   
+
+
+    font-family: 'poppins', sans-serif;
+ 
+}
+body { background: url(https://assets.designhill.com/resize_img.php?atyp=st_page_file&pth=ft_bt_bobirtiibi_org||BT262778||bcm-one-bg-img-rgt-three-img-info_bg_img&flp=1576306640-15895150225df487d0039bd5-98427672.svg);
+background-repeat: no-repeat;
+background-size: 30%;
+border-radius: 1px;
+border: 1px dashed;
+border-width: 100%;
+
+}
+
+.card {float: right;
+margin: 3%;
+width: 70%;
+margin-right: -38%;
+height: 1000px;
+
+
+
+
+
+}
+.container { 
+margin: 3%;
+width: 70%;
+}
+.main { margin: 3%;
+width: 70%;
+
+}
